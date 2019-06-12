@@ -26,50 +26,77 @@
       content-class="bg-grey-2"
     >
       <q-list>
-        <q-item-label header>Essential Links</q-item-label>
-        <q-item clickable tag="a" target="_blank" href="https://quasar.dev">
+        <q-item-label header>Menu</q-item-label>
+        <q-item clickable tag="a" target="_blank" href="http://localhost:8080">
           <q-item-section avatar>
             <q-icon name="school" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Docs</q-item-label>
-            <q-item-label caption>quasar.dev</q-item-label>
+            <q-item-label>IEO</q-item-label>
+            <q-item-label caption>initial exchange offering</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://github.com/quasarframework/">
+        <q-item clickable tag="a" target="_blank" href="https://swapsteem.com">
           <q-item-section avatar>
-            <q-icon name="code" />
+            <q-icon name="school" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Github</q-item-label>
-            <q-item-label caption>github.com/quasarframework</q-item-label>
+            <q-item-label>Market</q-item-label>
+            <q-item-label caption>https://swapsteem.com</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://chat.quasar.dev">
+        <q-item clickable tag="a" target="_blank" href="http://localhost:8080">
           <q-item-section avatar>
-            <q-icon name="chat" />
+            <q-icon name="school" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Discord Chat Channel</q-item-label>
-            <q-item-label caption>chat.quasar.dev</q-item-label>
+            <q-item-label>Wallet</q-item-label>
+            <q-item-label caption>Steem wallet</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://forum.quasar.dev">
+        <q-item clickable tag="a" target="_blank" href="http://localhost:8080">
           <q-item-section avatar>
-            <q-icon name="record_voice_over" />
+            <q-icon name="school" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Forum</q-item-label>
-            <q-item-label caption>forum.quasar.dev</q-item-label>
+            <q-item-label>History</q-item-label>
+            <q-item-label caption>wallet history</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://twitter.com/quasarframework">
+        <q-item clickable tag="a" target="_blank" href="http://localhost:8080">
           <q-item-section avatar>
-            <q-icon name="rss_feed" />
+            <q-icon name="school" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Twitter</q-item-label>
-            <q-item-label caption>@quasarframework</q-item-label>
+            <q-item-label>Profile</q-item-label>
+            <q-item-label caption>user profile</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item clickable tag="a" target="_blank" href="http://localhost:8080">
+          <q-item-section avatar>
+            <q-icon name="school" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>About</q-item-label>
+            <q-item-label caption>about us</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item clickable tag="a" target="_blank" href="http://localhost:8080">
+          <q-item-section avatar>
+            <q-icon name="school" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Support</q-item-label>
+            <q-item-label caption>help and support</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item clickable tag="a" target="_blank" href="http://localhost:8080">
+          <q-item-section avatar>
+            <q-icon name="school" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Notifications</q-item-label>
+            <q-item-label caption>notifications</q-item-label>
           </q-item-section>
         </q-item>
       </q-list>
